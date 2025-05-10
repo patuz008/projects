@@ -17,19 +17,15 @@ The guide provides step-by-step instructions for:
 * Orchestrating the pipeline with Azure Data Factory.
 * Querying and analysing data with Synapse Analytics.
 
-This setup enables efficient and scalable processing of earthquake data for informed decision-making.![azure data engineering project workflow](https://github.com/user-attachments/assets/df7a2489-78a9-40e9-a76b-d6bb5c8aa748)
+This setup enables efficient and scalable processing of earthquake data for informed decision-making.
 
 
 ### Project Workflow
 
 Here's a diagram of the data pipeline:
 
+![azure data engineering project workflow](https://github.com/user-attachments/assets/df7a2489-78a9-40e9-a76b-d6bb5c8aa748)
 
-![Uploading azure data engineering project workflow.png…]()
-
-![Azure Data Pipeline Workflow](Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
-
-![Azure end to end data engineering project](..//Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
 
 
 Inspired by [Luke J Byrne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
