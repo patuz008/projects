@@ -6,7 +6,7 @@ This repository contains a guide for setting up an Azure data engineering pipeli
 
 * **Data Ingestion:** Azure Data Factory automates data retrieval.
 * **Data Processing:** Databricks cleans and transforms data using a medallion architecture (Bronze, Silver, Gold).
-* **Data Storage:** Azure Data Lake Storage stores data at each stage.
+* **Data Storage:** Azure Data Lake Storage (ADLS) stores data at each stage.
 * **Data Analysis:** Synapse Analytics enables querying and reporting.
 
 The guide provides step-by-step instructions for:
@@ -19,7 +19,7 @@ The guide provides step-by-step instructions for:
 
 This setup enables efficient and scalable processing of earthquake data for informed decision-making.
 
-![Azure end to end data engineering project](path/to/your/image.png)
+![Azure end to end data engineering project](Trash/Notebooks/azure data engineering project workflow.png)
 
 
 Inspired by [Luke J Byrne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
