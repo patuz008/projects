@@ -23,9 +23,9 @@ This setup enables efficient and scalable processing of earthquake data for info
 
 Here's a diagram of the data pipeline:
 
-![Azure Data Pipeline Workflow](projects/Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
+![Azure Data Pipeline Workflow](../Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
 
-![Azure end to end data engineering project](Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
+![Azure end to end data engineering project](/Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
 
 
 Inspired by [Luke J Byrne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
