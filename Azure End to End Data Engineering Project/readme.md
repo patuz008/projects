@@ -22,4 +22,4 @@ This setup enables efficient and scalable processing of earthquake data for info
 ![Azure end to end data engineering project](path/to/your/image.png)
 
 
-Inspired by [Luke J Bryne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
+Inspired by [Luke J Byrne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
