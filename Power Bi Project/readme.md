@@ -42,6 +42,7 @@ This project evaluates Toyota Motor Corporation's sales performance using data a
 
 ### Screenshot of dashboard 
   
+![image one](images/Screenshot (1).png)
 
 ---
 
