@@ -19,7 +19,7 @@ The guide provides step-by-step instructions for:
 
 This setup enables efficient and scalable processing of earthquake data for informed decision-making.
 
-![Azure end to end data engineering project](Trash/Notebooks/azure data engineering project workflow.png)
+![Azure end to end data engineering project](Azure End to End Data Engineering Project/Notebooks/Trash/azure data engineering project workflow.png)
 
 
 Inspired by [Luke J Byrne](https://www.youtube.com/watch?v=lyp8rlpJc3k)
