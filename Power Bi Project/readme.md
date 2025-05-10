@@ -41,8 +41,9 @@ This project evaluates Toyota Motor Corporation's sales performance using data a
 ---
 
 ### Screenshot of dashboard 
-  
-![image one](Power Bi Project/images/Screenshot (1).png)
+![Screenshot (3)](https://github.com/user-attachments/assets/4d2a5e99-306e-4f0f-adf1-50af48f2087f)
+![Screenshot (2)](https://github.com/user-attachments/assets/353c2063-03f3-4674-9fee-031a68003383)
+![Screenshot (1)](https://github.com/user-attachments/assets/f04ef9fa-0114-44c4-a4ff-7ba7c133c0d1)
 
 ---
 
