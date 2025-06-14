@@ -69,22 +69,9 @@ This Jupyter notebook analyses a dataset of medical insurance costs to understan
 
 ---
 
-## Next Steps (Implied)
-
-1. **Categorical Feature Analysis**:
-   - Investigate the impact of `smoker status`, `region`, and `sex` on medical costs.
-
-2. **Predictive Modelling**:
-   - Use regression techniques to build predictive models for medical costs.
-
-3. **Further Investigation**:
-   - Explore why `bmi` shows a weaker correlation with `charges` than expected.
-
----
-
 ## Data Source
 
-- [Kaggle Medical Cost Dataset](https://www.kaggle.com/datasets)
+- [Kaggle Dataset](https://www.kaggle.com/datasets)
 
 ---
 
@@ -97,4 +84,3 @@ This Jupyter notebook analyses a dataset of medical insurance costs to understan
 - `scikit-learn`
 
 
-You can copy this content into a `.md` file (e.g., `README.md`) and upload it to your GitHub repository or use it as documentation for your project.
